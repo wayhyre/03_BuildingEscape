@@ -7,13 +7,14 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BuildingEscape/Content/StarterContent/
 BuildingEscape 4.21/Content/StarterContent/
 
 ######################
 # VS Generated files #
 ######################
 
-*.VC.db
+*Solution.VC.db
+*.VC.opendb
 *.suo
+
 
