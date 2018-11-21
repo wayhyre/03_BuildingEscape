@@ -12,9 +12,12 @@ BuildingEscape 4.21/Content/StarterContent/
 ######################
 # VS Generated files #
 ######################
-
+*Browse.VC.db
 *Solution.VC.db
+*Solution.VC.db-shm
+*Solution.VC.db-wal
 *.VC.opendb
 *.suo
+*.ipch
 
 
