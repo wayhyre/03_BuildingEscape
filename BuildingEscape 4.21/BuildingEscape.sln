@@ -1,16 +1,17 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.25807.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{1E1E5C5C-9AB3-4084-8466-CC93BD476D1A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{C5CEEDBF-D5F2-4D17-9B46-BF1FA407D9E3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{CDB770AC-74CE-4178-85F0-B99F7127AA79}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{9FB3989F-64CE-435F-93AD-681E551CEEE0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{F64AB69A-1A4B-4FCE-9B5D-6C16E7629D9D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BuildingEscape", "Intermediate\ProjectFiles\BuildingEscape.vcxproj", "{FBE62B7D-DC4F-46E6-B3A2-1118B7612CCE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{22DC89AC-DC74-4C91-A211-2EA2DB39D36B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{C8C76897-753B-4529-B896-D0FE89C37113}"
 	ProjectSection(SolutionItems) = preProject
 		D:\Epic Games\UE_4.21\Engine\Extras\VisualStudioDebugging\UE4.natvis = D:\Epic Games\UE_4.21\Engine\Extras\VisualStudioDebugging\UE4.natvis
 	EndProjectSection
@@ -98,8 +99,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{F64AB69A-1A4B-4FCE-9B5D-6C16E7629D9D} = {1E1E5C5C-9AB3-4084-8466-CC93BD476D1A}
-		{FBE62B7D-DC4F-46E6-B3A2-1118B7612CCE} = {CDB770AC-74CE-4178-85F0-B99F7127AA79}
-		{FBE62B7D-DC4F-46E6-B3A2-1118B7612CCE} = {CDB770AC-74CE-4178-85F0-B99F7127AA79}
+		{F64AB69A-1A4B-4FCE-9B5D-6C16E7629D9D} = {C5CEEDBF-D5F2-4D17-9B46-BF1FA407D9E3}
+		{FBE62B7D-DC4F-46E6-B3A2-1118B7612CCE} = {9FB3989F-64CE-435F-93AD-681E551CEEE0}
 	EndGlobalSection
 EndGlobal
