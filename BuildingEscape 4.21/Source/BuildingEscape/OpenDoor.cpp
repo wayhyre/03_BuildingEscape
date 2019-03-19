@@ -1,8 +1,10 @@
 // Copyright David Ofosu 2018.
 
 #include "OpenDoor.h"
+#include "GameFramework/PlayerController.h"
 #include "GameFramework/Actor.h"
 #include "Engine/World.h"
+#include "Engine/TriggerVolume.h"
 #include "Engine/Classes/Components/BoxComponent.h"
 
 
