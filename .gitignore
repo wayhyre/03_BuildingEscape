@@ -16,6 +16,7 @@ BuildingEscape 4.21/Content/StarterContent/
 *Solution.VC.db-shm
 *Solution.VC.db-wal
 *.VC.opendb
+*.sln
 *.suo
 *.ipch
 
